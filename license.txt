@@ -1,0 +1,184 @@
+================================================
+Codeberry
+License Agreement
+https://codeberry.net/license
+================================================
+
+This License Agreement (the “Agreement”) is a legal agreement between you (or the “Licensee”) and Codeberry (or “we”, “us” or “our”). This Agreement describes the terms and conditions for the use of our products that may be downloaded from this website (“Site”) or otherwise obtained from us unless there is a written notice that other terms and conditions are applicable. Please read this Agreement carefully and completely prior to downloading or using our products.
+
+By downloading, copying, installing, or using all or any portion of the Product, you acknowledge that you are legally bound by this Agreement and accept all the terms and conditions, including, without limitation, the provisions on license restrictions, limited warranty, and limitation of liability. In addition to the terms stated herein, you acknowledge and agree to be legally bound by our Terms and Conditions, which are incorporated into this Agreement. If you are unwilling to accept these terms and conditions, or you do not have the right, power, and authority to act on behalf of and bind such entity or yourself as an individual, you must not download, install, access, or otherwise copy or use all or any portion of the Product.
+
+================================================
+Definitions
+================================================
+
+The following capitalized terms shall have the following meanings. Capitalized terms used and not otherwise defined in this Agreement have the meanings ascribed to them in the Terms and Conditions.
+
+“End Product” refers to a customized implementation of the Product which requires time, effort, and skill to produce, and must be significantly different from the Product as it was originally provided or made available to the Licensee.
+
+“Licensee” refers to the individual or entity that acquires, downloads, installs, or accesses the Product from this Site or an external marketplace. For clarification, “Licensee” refers only to a single, specifically identified legal entity or individual, and does not include any subsidiary or affiliate of any such legal entity or individual or any other related person.
+
+“Product” refers to all copies of source files and other supplemental materials that are licensed under this Agreement and may be downloaded from this Site or an external marketplace. For clarification, “Product” includes, without limitation, any error corrections, updates and upgrades to, and new versions of, the Product that Codeberry provides or makes available to the Licensee.
+
+================================================
+General
+================================================
+
+The Product, documentation, content, and any data accompanying this Agreement are licensed, not sold, to you by Codeberry for use only under the terms of this Agreement. We retain ownership of the Product itself and reserve all rights not expressly granted to you.
+
+We, at our sole discretion, may make available future updates to the Product. The terms of this Agreement will govern any releases, revisions, or updates provided by us that replace or supplement the Product unless such update is accompanied by a separate license in which case the terms of that license will govern.
+
+Title and intellectual property rights in and to any content displayed by or accessed through the Product belongs to the respective content owner. Such content may be protected by copyright or other intellectual property laws and treaties and may be subject to terms of use of the third party providing such content. Except as otherwise provided herein, this Agreement does not grant you any rights to use such content nor does it guarantee that such content will continue to be available to you.
+
+================================================
+License
+================================================
+
+License Grant
+
+Subject to and conditioned on your continuous compliance with the terms and conditions set forth in this Agreement, we grant you a non-exclusive, non-sublicensable, non-transferable, worldwide license to use and modify the Product to create a single End Product for yourself or for one (1) client. You shall not distribute, market, or sell the Product in its unmodified or stand-alone form. The End Product must not be (i) used or sold in a way that is directly competitive with the Product or (ii) redistributed to a third party in a manner that allows for the extraction of the Product.
+
+Updates and Other Materials
+
+If we provide or make available to you any additional materials associated with the Product, including any corrections, revisions or updates to, or new versions of, the Product or any supplemental materials for the Product, (i) such additional materials may include or be subject to other terms in addition to or different from the terms set forth in this Agreement and you agree to comply with such terms, or (ii) if there are no other terms for such additional materials, they will be subject to the same terms as the Product to which such additional materials apply.
+
+Authorized Users and Compliance
+
+You may permit the Product to be accessed only by your employees or independent contractors (collectively, “Personnel”), and any such access will be subject to the requirements imposed by this Agreement. You shall be jointly and severally responsible for compliance with this Agreement by your Personnel and any other persons who may have access to the Product (whether or not such access is authorized by us or within the scope of this Agreement). You agree to take all commercially reasonable steps to prevent unauthorized third parties from accessing or duplicating the Product. You will remain responsible for compliance with the terms of this Agreement by your client.
+
+Third-Party Materials
+
+The Product may contain or be accompanied by third-party materials or data that are subject to and provided in accordance with terms that are in addition to or different from the terms set forth in this Agreement. Such terms may be included or referenced in or with such third-party materials or data, and you agree to comply with such terms. In addition, you will take sole responsibility for obtaining and complying with any licenses that may be necessary to use third-party materials or data that you use or obtain for use in conjunction with the Product. You acknowledge and agree that we have no responsibility for, and make no representations or warranties regarding, such third-party materials or data.
+
+Nature of Licenses
+
+You acknowledge and agree that when you acquire a license of the Product, your acquisition is neither contingent on the delivery of any future features or functionality nor subject to any public or other comments (oral, written, or otherwise) made by us regarding future features or functionality.
+
+================================================
+Intellectual Property
+================================================
+
+All Rights Reserved
+
+We retain title to and ownership of, and all other rights with respect to, the Product and all copies thereof, including, without limitation, any related copyrights, trademarks, and other intellectual property rights. You have only the limited license granted with respect to the Product expressly set forth in this Agreement, and you have no other rights, implied or otherwise. You acknowledge and agree that the Product is licensed, not sold, and that the right to use and modify the Product is acquired only under the license from us. The structure and organization of the Source Files included in the Product, supplemental materials, and any other materials relating to such Product, are confidential and proprietary information of Codeberry and may be used only internally and only in conjunction with and for your own authorized internal use of the Product.
+
+The Product is protected by copyright and other applicable laws, including, without limitation, by United States Copyright Law, international treaty provisions, and applicable laws in the country in which it is being used. You may not copy, adapt, translate, or use the Product except as permitted herein.
+
+Rights in End Products
+
+You shall own all rights in modifications of the Product prepared by or for yourself. All rights in the Product, or any portion thereof, which remain in any such modification, shall remain with us and shall remain subject to the terms of this Agreement.
+
+Trademarks
+
+You shall not use, display, or register any identifying mark, trademark, service mark, or domain name owned by or used to identify any Product or Services of Codeberry for any reason, whether in the name of any End Product or otherwise.
+
+================================================
+Permitted Uses and Restrictions
+================================================
+
+Permitted Uses
+
+Subject to the terms and conditions of this Agreement, you are granted a non-exclusive, non-sublicensable, non-transferable, worldwide license to:
+
+- Create a single End Product for yourself or one (1) client; and
+- Create any number of copies of the single End Product.
+
+Limitations and Exclusions
+
+You acknowledge and agree that, notwithstanding anything to the contrary in this Agreement, no license is granted (whether expressly, by implication, or otherwise) under this Agreement (and this Agreement expressly excludes any right) (i) to any Products that you did not acquire lawfully or that you acquired in violation of or in a manner inconsistent with this Agreement, and (ii) for the use of the Product beyond the scope of the applicable license granted herein, including but not limited to the following:
+
+- Sell the End Product, except to one (1) client.
+- Create multiple End Products under a single license for yourself or one (1) client.
+- Sublicense, sell, share, transfer, or distribute all or any portion of the Product on its own or bundled to any person or entity except as expressly set forth in this Agreement.
+- Convert or adapt the Product into a theme for any platform, with or without the intention to sell or create financial gain.
+- Use all or any portion of Product in any application that allows the end user to customize the Product to their specific needs, such as a website builder.
+- Permit the end user of the End Product to extract all or any portion of Product and use it separately from the End Product.
+- Provide, offer, or make available the Product on a digital asset management system, shared drive, or similar technologies for the purposes of sharing or transferring the Product.
+- Use the Product in any way that violates this Agreement including, without limitation, in a manner that infringes any third party’s trademark or other intellectual property or would give rise to a claim of deceptive advertising or unfair competition.
+- Register the Product or End Product as a copyright or trademark.
+- Represent, expressly or by way of reasonable implication, that the Product is created by you or a person other than us.
+- Use the Product in a manner that is unlawful, harmful, abusive, offensive, defamatory, deceptive, infringing, obscene, threatening, profane, or promotes racism, bigotry, hatred or physical harm of any kind against any group or individual, or is otherwise objectionable.
+
+Effect of Unauthorized Uses
+
+You shall not engage in and shall not permit or assist any third party to engage in any of the uses or activities prohibited (or any uses or activities inconsistent with the limitations described) in this Agreement (collectively, “Unauthorized Uses”). Any such Unauthorized Use of the Product provided under this Agreement, outside of the scope of the applicable license grant or otherwise not in accordance with this Agreement, will constitute or result in infringement of our intellectual property rights as well as a breach of this Agreement. You shall notify us promptly of any such Unauthorized Uses.
+
+================================================
+Term and Termination
+================================================
+
+Term
+
+Each license under this Agreement shall become effective upon the later of (i) your payment of the applicable fees and (ii) delivery of the Product. The term of this Agreement and the license granted herein shall continue as long as you are using the Product or until the earlier termination of this Agreement pursuant to the provisions set forth herein.
+
+Termination Upon Event of Default
+
+A material breach of the obligations under this Agreement on your part shall constitute as an event of default (“Event of Default”). If an Event of Default occurs, we shall have the right, in our sole discretion, to terminate this Agreement.
+
+Effect of Termination
+
+Upon termination of this Agreement for any reason whatsoever, you shall immediately delete all copies, full or partial, of the Product in your possession or control, and cease all use of the Product and any End Products thereof (until you remove the Product from it), including all documents and other materials, and erase all copies from computers and storage media. In addition to the foregoing, you agree that you shall not, following the termination of this Agreement, act in any way to damage our reputation or goodwill. We are not obligated to refund any fees paid by you in the event that this Agreement is terminated by reason of a breach.
+
+================================================
+Privacy and Use of Information
+================================================
+
+You acknowledge and agree that you (or a third party acting on your behalf) may provide, and we may obtain, certain information and data with respect to you (including, without limitation, personal information) and your business in connection with this Agreement, including, without limitation, information and data provided to or obtained by us through the contact form and otherwise, in connection with ordering, registration, updating, validating entitlement to, installation of, and access to the Product and managing the relationship with you. You hereby consent to us maintaining, using, storing, and disclosing such information and data (including, without limitation, personal information, if any) in conformity with our Privacy Policy. Without limitation of the generality of the foregoing, you acknowledge and agree that such policies may be changed from time to time and that, effective upon posting on this Site or other written notice from us, you will be subject to such changes.
+
+================================================
+Warranty Disclaimers
+================================================
+
+To the fullest extent permitted by applicable law, Codeberry makes, and you receive, no warranties, representations, or conditions of any kind, express or implied (including, without limitation, any implied warranties of merchantability, fitness for a particular purpose, or noninfringement, or warranties otherwise implied by statute or from a course of dealing or usage of trade) with respect to the Product. Any statements or representations about the Product and its features or functionality or any communication with you are for information purposes only, and do not constitute a warranty, representation, or condition. Without limiting the foregoing, Codeberry does not warrant: (i) that the use of the Product will be uninterrupted, error-free, secure, accurate, reliable, or complete; (ii) that errors will be corrected by Codeberry or any third party; or (iii) that Codeberry or any third party will resolve any particular support request or that such resolution will meet your requirements or expectations. Nothing in the foregoing restricts the effect of warranties or conditions which may be implied by law which cannot be excluded, restricted or modified notwithstanding a contractual restriction to the contrary.
+
+================================================
+Limitation of Liability
+================================================
+
+You acknowledge and agree that to the fullest extent permitted by applicable law, in no event will Codeberry and its affiliates, directors, officers, employees, and agents be liable for personal injury, or any incidental, special, indirect or consequential damages whatsoever, including, without limitation, damages for loss of profits, corruption or loss of data, failure to transmit or receive any data or information, business interruption or any other commercial damages or losses, arising out of or related to your use or inability to use the Product or any third-party software or applications in conjunction with the Product, however caused, regardless of the theory of liability (contract, tort or otherwise) and even if Codeberry has been advised of the possibility of such damages.
+
+================================================
+Indemnification
+================================================
+
+To the fullest extent permitted by law, you agree to indemnify and hold harmless Codeberry and its affiliates, directors, officers, employees, and agents from and against any and all damages, costs, losses, liabilities, expenses, and settlement amounts incurred in connection with any suit, claim, or action by any third party, to the extent that such action is based upon a claim that: (i) if true, would constitute a breach of any of your representations, warranties, or agreements hereunder; (ii) arises out of your negligence or willful misconduct; or (iii) any of the your content or use of the Product infringes or misappropriates any patent, copyrights, moral rights, trademark, trade secret and design rights, whether registered or unregistered, and including any application for registration of any of the foregoing and all rights or forms of protections of a similar nature having equivalent or similar effect to any of these, which may subsist anywhere in the world, of such third party.
+
+================================================
+Additional Terms
+================================================
+
+Entire Agreement
+
+This Agreement constitutes the entire agreement between you and Codeberry relating to the use of the Product and supersedes all prior or contemporaneous understandings regarding such subject matter.
+
+Headings
+
+The headings are inserted for convenience in reference only and are not intended by us to be a part of or to affect the meaning or interpretation of this Agreement.
+
+Governing Law
+
+This Agreement will be governed by and construed in accordance with the laws of the State of Florida, excluding its conflict of law principles. By using the Product, you hereby consent to the exclusive jurisdiction and venue of courts located in the State of Florida, in all disputes arising out of or relating to the use of the Product.
+
+Waiver, Severability, and Assignment
+
+No term or provision of this Agreement will be considered waived, and no breach excused, unless such waiver is in writing and signed by us. No waiver (whether express or implied) will constitute consent to, waiver of, or excuse of any other, different, or subsequent breach.
+
+In the event that any portion of this Agreement is held to be unenforceable, the unenforceable portion shall be construed in accordance with applicable law to the greatest extent possible to reflect the original intent of the parties, and the remainder of this Agreement shall remain in full force and effect.
+
+You may not delegate, transfer, or assign this Agreement or any of your rights or obligations hereunder without our prior written consent, and any such attempt will be of no effect. We may delegate, transfer, or assign this Agreement or some or all of our rights and obligations hereunder, in our sole discretion, to any of our affiliates or subsidiaries or to any purchaser of any of our business or assets, with thirty (30) days prior written notice.
+
+No Assignment
+
+You may not assign this Product License or any rights hereunder (whether by purchase of stock or assets, merger, change of control, operation of law, or otherwise) without our prior written consent, which may be withheld in our sole and absolute discretion, and any unauthorized purported assignment will be void.
+
+Force Majeure
+
+No term or provision of this Product License will be considered waived, and no breach excused, unless such waiver is in writing and signed by us. No waiver (whether express or implied) will constitute consent to, waiver of, or excuse of any other, different, or subsequent breach.
+
+Force Majeure
+
+We will not be liable for any loss, damage, or penalty resulting from delays or failures in performance resulting from acts of God or other unforeseeable and insuperable causes beyond our reasonable control.
+
+Changes
+
+We reserve the right, in our sole and absolute discretion, to modify this Agreement at any time without notice and to impose new or additional terms or conditions on your use of the Product. Such modifications and additional terms and conditions will be effective immediately and incorporated into this Agreement. Your continued use of the Product will be deemed acceptance thereof.
