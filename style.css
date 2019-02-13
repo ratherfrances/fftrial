@@ -199,7 +199,7 @@ a:hover, a:focus {
 }
 
 .scrunch:after {
-	background-image: url("../../assets/images/one.JPG");
+	background-image: url("one.JPG");
 	background-size: cover;                      /* <------ */
   background-repeat: no-repeat;
   background-position: center center;
