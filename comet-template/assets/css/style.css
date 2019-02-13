@@ -22,19 +22,20 @@ dd, dl, h1, p {
 	padding: 0;
 }
 
-h1, h2 {
+ h2 {
 	font-size: inherit;
 	font-weight: 400;
 	margin: 0;
 	line-height: .8;
 }
 
+
 a {
 	/*color: inherit;*/
 	position: relative;
 	border-bottom: 1px solid #f8f8f6;
 	text-decoration: none;
-	color: black;
+	color: white;
 }
 
 a:hover, a:focus {
@@ -42,13 +43,25 @@ a:hover, a:focus {
 	border-bottom: 1px solid #f5ded2;
 }
 
+#hands {
+	align-items: center;
+}
+
+#mainlogo {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	padding-top: 60px;
+}
+
+
 .bio {
 	background-color: rgba(245,222,210, 0.8);
 	padding-left: 20px;
 	padding-right: 20px;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	font-size: 15px;
+	font-size: 25px;
 }
 
 ::-moz-focus-inner {
@@ -149,7 +162,7 @@ a:hover, a:focus {
 }
 
 .bio {
-	font-size: 15px;
+	font-size: 25px;
 	font-weight: 100;
 	margin-bottom: -.45em;
 	max-width: 700px;
